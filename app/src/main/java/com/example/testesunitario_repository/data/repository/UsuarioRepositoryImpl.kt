@@ -7,8 +7,9 @@ class UsuarioRepositoryImpl: UsuarioRepository {
     override fun salvar(usuario: Usuario): Boolean {
         if (usuario.nome == "Nome tres") {
             return true
-        } else
+        } else {
             return false
+        }
     }
 
     override fun login(email: String, senha: String, confiramcaoSenha: String): Boolean {

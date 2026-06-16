@@ -8,6 +8,7 @@ O objetivo principal foi consolidar o entendimento sobre a criação de contrato
 * **Linguagem:** Kotlin
 * **Padrão de Arquitetura:** Repository Pattern (Separação de Camadas)
 * **Testes:** JUnit (foco na validação de fluxos lógicos de sucesso e falha)
+* **Bilbioteca Truth:** Truth - Fluent assertion for Java and Andoid (https://truth.dev/)
 
 ## 🏗️ Estrutura do Projeto
 
